@@ -3,15 +3,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ejazahm3d/)](https://www.linkedin.com/in/ejazahm3d/)
 [![Laptop Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white&link=https://www.ejazahmed.com)](https://www.ejazahmed.com)
 
-Peace be upon you! Thank you for expressing interest in knowing me. I appreciate it.
+As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
 
-I am a Passionate Problem Solver. ✅
+I am..
 
-Academic background in Marketing. ✅
+🎲 Passionate Problem Solver.
 
-Acheived Childhood Dream of Being Software Engineer ✅
+✅ Academic background in Marketing.
 
-Here the tools I use/work with.
+🏃 Working towards childhood dream of being Software Engineer
+
+🕌 Muslim
+
+Here are the tools I use/work with.
 
 - **FrontEnd Technologies**: React/Redux, GraphQL
 - **BackEnd Technologies:** NodeJs, ASP.NET core
