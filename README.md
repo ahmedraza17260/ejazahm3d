@@ -20,7 +20,7 @@ Here are the tools I use/work with.
 - **FrontEnd Technologies**: React/Redux, GraphQL
 - **BackEnd Technologies:** NodeJs, ASP.NET core
 - **Databases**: PostgreSQL
-- **Programming Languages**: JavaScript, C#, Rust
+- **Programming Languages**: JavaScript/Typescript, C#, Rust
 - **Version Control**: Git and GitHub
 - **DevOps**: Docker, Azure Devops, Heroku, Github Actions
 
