@@ -7,13 +7,13 @@ As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowi
 
 I am..
 
-🎲 Passionate Problem Solver.
+### 🎲 Passionate Problem Solver.
 
-✅ Academic background in Marketing.
+### ✅ Academic background in Marketing.
 
-🏃 Working towards childhood dream of being Software Engineer
+### 🏃 Working towards childhood dream of being Software Engineer
 
-🕌 Muslim
+### 🕌 Muslim
 
 Here are the tools I use/work with.
 
